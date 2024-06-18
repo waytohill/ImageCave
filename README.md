@@ -1,2 +1,2 @@
 # ImageCave
-a image bed
+an image bed
